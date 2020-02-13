@@ -1,0 +1,9 @@
+start_pause_key s
+quit_program_key e
+emergency_stop True
+max_cycles 500
+working_minutes 0
+working_hours 0
+delay_between_cycles 0.13
+delay_between_operations 0.1
+size normal

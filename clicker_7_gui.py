@@ -1,3 +1,6 @@
+#date: 7/31/2018
+#Biao Chen
+#this file takes care of the gui part
 import tkinter
 #the gui part for the clicker
 

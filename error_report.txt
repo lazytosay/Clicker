@@ -1,0 +1,10 @@
+
+==========>
+02_13_2020
+file_to_dict: [Errno 2] No such file or directory: 'clicker_settings.txt'
+
+
+==========>
+02_13_2020
+main: [Errno 2] No such file or directory: 'clicker_settings.txt'
+
